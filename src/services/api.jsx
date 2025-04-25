@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_KEY = import.meta.env.VITE_API_KEY;
-const API_BASE_URL = 'http://www.omdbapi.com';
+const API_BASE_URL = 'https://www.omdbapi.com';
 
 const PLACEHOLDER_IMAGE = 'https://via.placeholder.com/500x750?text=No+Image';
 
